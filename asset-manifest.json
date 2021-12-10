@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/rwtwbike/static/css/main.a617e044.chunk.css",
-    "main.js": "/rwtwbike/static/js/main.bea0f65b.chunk.js",
-    "main.js.map": "/rwtwbike/static/js/main.bea0f65b.chunk.js.map",
-    "runtime-main.js": "/rwtwbike/static/js/runtime-main.b93b85d9.js",
-    "runtime-main.js.map": "/rwtwbike/static/js/runtime-main.b93b85d9.js.map",
-    "static/js/2.1be12478.chunk.js": "/rwtwbike/static/js/2.1be12478.chunk.js",
-    "static/js/2.1be12478.chunk.js.map": "/rwtwbike/static/js/2.1be12478.chunk.js.map",
-    "static/js/3.bf55a778.chunk.js": "/rwtwbike/static/js/3.bf55a778.chunk.js",
-    "static/js/3.bf55a778.chunk.js.map": "/rwtwbike/static/js/3.bf55a778.chunk.js.map",
+    "main.js": "/rwtwbike/static/js/main.dba23e18.chunk.js",
+    "main.js.map": "/rwtwbike/static/js/main.dba23e18.chunk.js.map",
+    "runtime-main.js": "/rwtwbike/static/js/runtime-main.73267c12.js",
+    "runtime-main.js.map": "/rwtwbike/static/js/runtime-main.73267c12.js.map",
+    "static/js/2.cc554c65.chunk.js": "/rwtwbike/static/js/2.cc554c65.chunk.js",
+    "static/js/2.cc554c65.chunk.js.map": "/rwtwbike/static/js/2.cc554c65.chunk.js.map",
     "index.html": "/rwtwbike/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/rwtwbike/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.1be12478.chunk.js.LICENSE.txt": "/rwtwbike/static/js/2.1be12478.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/rwtwbike/static/media/logo.6ce24c58.svg"
+    "static/js/2.cc554c65.chunk.js.LICENSE.txt": "/rwtwbike/static/js/2.cc554c65.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b93b85d9.js",
-    "static/js/2.1be12478.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.bea0f65b.chunk.js"
+    "static/js/runtime-main.73267c12.js",
+    "static/js/2.cc554c65.chunk.js",
+    "static/js/main.dba23e18.chunk.js"
   ]
 }
