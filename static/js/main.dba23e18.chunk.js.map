@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["render","document","getElementById"],"mappings":"oGAAA,8BAGAA,iBACE,oCAGAC,SAASC,eAAe,W","file":"static/js/main.dba23e18.chunk.js","sourcesContent":["import react from 'react'\r\nimport { render } from 'react-dom'\r\n\r\nrender(\r\n  <div>\r\n    a\r\n  </div>,\r\n  document.getElementById('root')\r\n);"],"sourceRoot":""}
